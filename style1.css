@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+header{
+    background-image: url(Wbg.jpg);
+    height: 160vh;
+    background-position: center;
+    background-size: cover;
+    font-size: 24px;
+    text-align: center;
+    color: aliceblue;
+}
+main{
+    margin-left: 120px;
+}
+.box{
+    display: block;
+    float: left;
+    width:20%;
+    padding: 10px;
+    padding-left: 12px;
+}
+img{
+    width: 270px;
+    height: 250px;
+    border-radius: 5px;
+}
